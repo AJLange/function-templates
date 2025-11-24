@@ -359,6 +359,11 @@
       "id": "email-events-sms",
       "name": "Email Open and Click Alerts via SMS",
       "description": "This template tracks and sends SMS alerts of email open and click statuses."
+    },
+    {
+      "id": "add-mp3-to-phone-call",
+      "name": "Add an MP3 to an Automated Phone Call",
+      "description": "Set up an automated phone call that will call your users with an MP3."
     }
   ]
 }
